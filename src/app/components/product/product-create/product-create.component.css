@@ -1,0 +1,12 @@
+.top {
+  color: black;
+}
+.btn-cancel {
+  background-color: azure;
+  color: #0c0c0c;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
